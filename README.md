@@ -18,7 +18,7 @@ Este projeto tem como objetivo desenvolver um dashboard para acompanhamento de u
 
 A solução será construída para organizar dados produtivos e transformar registros operacionais em informações úteis para acompanhamento de metas e tomada de decisão.
 
-O projeto faz parte do meu portfólio de desenvolvimento em **dados, automação e dashboards industriais**.
+O projeto faz parte do meu portfólio de desenvolvimento em **dados, automação e dashboards industriais.**
 
 ## 🏭 Contexto fictício
 
